@@ -1,0 +1,13 @@
+{
+  "tax_bands": [
+    {"limit": 800000, "rate": 0.0},
+    {"limit": 2200000, "rate": 0.15},
+    {"limit": 9000000, "rate": 0.18},
+    {"limit": 13000000, "rate": 0.21},
+    {"limit": 25000000, "rate": 0.23},
+    {"limit": null, "rate": 0.25}
+  ],
+  "cit_rate": 0.30,
+  "cit_small_turnover_limit": 50000000,
+  "cit_small_fixed_asset_limit": 250000000
+}
